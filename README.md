@@ -2,7 +2,7 @@ This project applies data analytics and statistical reasoning to study the aerod
 
 The core challenge was solving a cross-disciplinary problem at the intersection of physics and data science: extracting meaningful insights from noisy, limited experimental data while validating theoretical models with empirical evidence.
 
-Key methods and skills:
+### Key methods and skills:
 
 Video-derived time-series data extraction and feature engineering
 
